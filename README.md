@@ -1,9 +1,14 @@
 PROJETO 3º SEMESTRE DSM - FATEC 2024/1
 **************************************
 PO: Rafael de Sousa Antoniete
+
 Designer: Guilherme Dilio de Souza
+
 Front: Bruno José dos Santos Silva
+
 Back: Allison Rodrigues de Paula e Silva
+
+**************************************
 
 ************* BAND FINDER ************
 
